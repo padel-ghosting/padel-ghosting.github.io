@@ -1,6 +1,7 @@
 {
   "name": "Padel Ghosting",
   "short_name": "Padel Ghosting",
+  "description": "Virtual coach for generating muscle memory of padel shots.",
   "icons": [
     {
       "src": "/pwa-192x192.png",
@@ -26,6 +27,29 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "screenshots": [
+    {
+     "src": "/screenshot-1-822x400.png",
+      "sizes": "822x400",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Forehand volley"
+    },
+    {
+      "src": "/screenshot-2-822x400.png",
+       "sizes": "822x400",
+       "type": "image/png",
+       "form_factor": "wide",
+       "label": "Backhand volley"
+     },
+     {
+      "src": "/screenshot-3-400x822.png",
+       "sizes": "400x822",
+       "type": "image/png",
+       "form_factor": "narrow",
+       "label": "Configurations"
+     }
   ],
   "start_url": "/",
   "display": "standalone",
